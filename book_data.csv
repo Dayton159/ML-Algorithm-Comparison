@@ -1,0 +1,145 @@
+age;gender;genre;suggested
+young;male;Fantasy;Yes
+young;male;Adventure;Yes
+young;male;Romance;No
+young;male;Contemporary;No
+young;male;Dystopian;No
+young;male;Mystery;No
+young;male;Horror;No
+young;male;Thriller;No
+young;male;Paranormal;No
+young;male;Historical fiction;No
+young;male;Science Fiction;Yes
+young;male;Memoir;No
+young;male;Cooking;No
+young;male;Art;Yes
+young;male;Self-help / Personal;Yes
+young;male;Development;No
+young;male;Motivational;Yes
+young;male;Health;Yes
+young;male;History;Yes
+young;male;Travel;No
+young;male;Guide / How-to;Yes
+young;male;Families & Relationships;No
+young;male;Humor;Yes
+young;male;Children’s;Yes
+young;female;Fantasy;Yes
+young;female;Adventure;Yes
+young;female;Romance;No
+young;female;Contemporary;No
+young;female;Dystopian;No
+young;female;Mystery;No
+young;female;Horror;No
+young;female;Thriller;No
+young;female;Paranormal;No
+young;female;Historical fiction;No
+young;female;Science Fiction;Yes
+young;female;Memoir;No
+young;female;Cooking;Yes
+young;female;Art;Yes
+young;female;Self-help / Personal;Yes
+young;female;Development;No
+young;female;Motivational;Yes
+young;female;Health;Yes
+young;female;History;Yes
+young;female;Travel;No
+young;female;Guide / How-to;Yes
+young;female;Families & Relationships;No
+young;female;Humor;Yes
+young;female;Children’s;Yes
+middle;male;Fantasy;Yes
+middle;male;Adventure;Yes
+middle;male;Romance;Yes
+middle;male;Contemporary;Yes
+middle;male;Dystopian;Yes
+middle;male;Mystery;Yes
+middle;male;Horror;Yes
+middle;male;Thriller;Yes
+middle;male;Paranormal;Yes
+middle;male;Historical fiction;Yes
+middle;male;Science Fiction;Yes
+middle;male;Memoir;Yes
+middle;male;Cooking;Yes
+middle;male;Art;Yes
+middle;male;Self-help / Personal;Yes
+middle;male;Development;Yes
+middle;male;Motivational;Yes
+middle;male;Health;Yes
+middle;male;History;Yes
+middle;male;Travel;Yes
+middle;male;Guide / How-to;Yes
+middle;male;Families & Relationships;Yes
+middle;male;Humor;Yes
+middle;male;Children’s;No
+middle;female;Fantasy;Yes
+middle;female;Adventure;Yes
+middle;female;Romance;Yes
+middle;female;Contemporary;Yes
+middle;female;Dystopian;Yes
+middle;female;Mystery;Yes
+middle;female;Horror;Yes
+middle;female;Thriller;Yes
+middle;female;Paranormal;Yes
+middle;female;Historical fiction;Yes
+middle;female;Science Fiction;Yes
+middle;female;Memoir;Yes
+middle;female;Cooking;Yes
+middle;female;Art;Yes
+middle;female;Self-help / Personal;Yes
+middle;female;Development;Yes
+middle;female;Motivational;Yes
+middle;female;Health;Yes
+middle;female;History;Yes
+middle;female;Travel;Yes
+middle;female;Guide / How-to;Yes
+middle;female;Families & Relationships;Yes
+middle;female;Humor;Yes
+middle;female;Children’s;No
+old;male;Fantasy;No
+old;male;Adventure;No
+old;male;Romance;No
+old;male;Contemporary;Yes
+old;male;Dystopian;Yes
+old;male;Mystery;Yes
+old;male;Horror;No
+old;male;Thriller;No
+old;male;Paranormal;Yes
+old;male;Historical fiction;Yes
+old;male;Science Fiction;No
+old;male;Memoir;Yes
+old;male;Cooking;No
+old;male;Art;No
+old;male;Self-help / Personal;No
+old;male;Development;No
+old;male;Motivational;Yes
+old;male;Health;Yes
+old;male;History;Yes
+old;male;Travel;Yes
+old;male;Guide / How-to;Yes
+old;male;Families & Relationships;Yes
+old;male;Humor;Yes
+old;male;Children’s;No
+old;female;Fantasy;No
+old;female;Adventure;No
+old;female;Romance;No
+old;female;Contemporary;Yes
+old;female;Dystopian;Yes
+old;female;Mystery;Yes
+old;female;Horror;No
+old;female;Thriller;No
+old;female;Paranormal;Yes
+old;female;Historical fiction;Yes
+old;female;Science Fiction;No
+old;female;Memoir;Yes
+old;female;Cooking;Yes
+old;female;Art;No
+old;female;Self-help / Personal;No
+old;female;Development;No
+old;female;Motivational;Yes
+old;female;Health;Yes
+old;female;History;Yes
+old;female;Travel;Yes
+old;female;Guide / How-to;Yes
+old;female;Families & Relationships;Yes
+old;female;Humor;Yes
+old;female;Children’s;No
